@@ -6,14 +6,14 @@ This project implements a novel Spiking Neural Network (SNN) architecture based 
 
 # 🎯 Key Innovations
 1. Multi-Timeframe Spiking ResNeXt Architecture
-2. 
+
 Parallel timeframe processing: Simultaneous analysis of M5, M15, H1, H4 data
 
 Spike-based temporal encoding: Financial data converted to biologically plausible spike trains
 
 Residual connections with cardinality: Enhanced feature learning through grouped convolutions
 
-4. Bio-Inspired Financial Data Encoding
+2. Bio-Inspired Financial Data Encoding
 
 # Temporal spike encoding for price movements
 - Up-spikes for positive price changes (> threshold)
